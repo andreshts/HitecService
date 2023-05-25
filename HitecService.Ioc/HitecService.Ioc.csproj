@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>HitecService.loc</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="FluentValidation" Version="11.5.2" />
+        <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+        <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.5.2" />
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.2" />
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+        <PackageReference Include="Microsoft.AspNetCore.ResponseCompression" Version="2.2.0" />
+        <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0-preview.3.23174.8" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="8.0.0-preview.3.23174.8" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="8.0.0-preview.3.23174.8" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="8.0.0-preview.3.23174.8" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0-preview.3.23174.8" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0-preview.3.23174.8" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0-preview.3.23174.8" />
+        <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="8.0.0-preview.3.23174.8" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\HitecService.Core\HitecService.Core.csproj" />
+        <ProjectReference Include="..\HitecService.Data\HitecService.Data.csproj" />
+        <ProjectReference Include="..\HitecService.Models\HitecService.Models.csproj" />
+    </ItemGroup>
+
+</Project>

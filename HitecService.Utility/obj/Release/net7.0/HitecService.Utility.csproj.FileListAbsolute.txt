@@ -1,0 +1,12 @@
+E:\Proyectos\HitecService\HitecService.Utility\bin\Release\net7.0\HitecService.Utility.deps.json
+E:\Proyectos\HitecService\HitecService.Utility\bin\Release\net7.0\HitecService.Utility.dll
+E:\Proyectos\HitecService\HitecService.Utility\bin\Release\net7.0\HitecService.Utility.pdb
+E:\Proyectos\HitecService\HitecService.Utility\obj\Release\net7.0\HitecService.Utility.csproj.AssemblyReference.cache
+E:\Proyectos\HitecService\HitecService.Utility\obj\Release\net7.0\HitecService.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\HitecService\HitecService.Utility\obj\Release\net7.0\HitecService.Utility.AssemblyInfoInputs.cache
+E:\Proyectos\HitecService\HitecService.Utility\obj\Release\net7.0\HitecService.Utility.AssemblyInfo.cs
+E:\Proyectos\HitecService\HitecService.Utility\obj\Release\net7.0\HitecService.Utility.csproj.CoreCompileInputs.cache
+E:\Proyectos\HitecService\HitecService.Utility\obj\Release\net7.0\HitecService.Utility.dll
+E:\Proyectos\HitecService\HitecService.Utility\obj\Release\net7.0\refint\HitecService.Utility.dll
+E:\Proyectos\HitecService\HitecService.Utility\obj\Release\net7.0\HitecService.Utility.pdb
+E:\Proyectos\HitecService\HitecService.Utility\obj\Release\net7.0\ref\HitecService.Utility.dll

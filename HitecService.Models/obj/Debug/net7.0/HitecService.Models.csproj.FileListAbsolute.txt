@@ -1,0 +1,12 @@
+E:\Proyectos\HitecService\HitecService.Models\bin\Debug\net7.0\HitecService.Models.deps.json
+E:\Proyectos\HitecService\HitecService.Models\bin\Debug\net7.0\HitecService.Models.dll
+E:\Proyectos\HitecService\HitecService.Models\bin\Debug\net7.0\HitecService.Models.pdb
+E:\Proyectos\HitecService\HitecService.Models\obj\Debug\net7.0\HitecService.Models.csproj.AssemblyReference.cache
+E:\Proyectos\HitecService\HitecService.Models\obj\Debug\net7.0\HitecService.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\HitecService\HitecService.Models\obj\Debug\net7.0\HitecService.Models.AssemblyInfoInputs.cache
+E:\Proyectos\HitecService\HitecService.Models\obj\Debug\net7.0\HitecService.Models.AssemblyInfo.cs
+E:\Proyectos\HitecService\HitecService.Models\obj\Debug\net7.0\HitecService.Models.csproj.CoreCompileInputs.cache
+E:\Proyectos\HitecService\HitecService.Models\obj\Debug\net7.0\HitecService.Models.dll
+E:\Proyectos\HitecService\HitecService.Models\obj\Debug\net7.0\refint\HitecService.Models.dll
+E:\Proyectos\HitecService\HitecService.Models\obj\Debug\net7.0\HitecService.Models.pdb
+E:\Proyectos\HitecService\HitecService.Models\obj\Debug\net7.0\ref\HitecService.Models.dll
